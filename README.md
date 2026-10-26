@@ -2,8 +2,8 @@
 Sales Data Analysis
 
 ➤ **Project Overview**
-    The Sales Data Analysis project is a Python-based script designed to process, clean, and analyze retail sales data. Using the powerful pandas library, this tool takes raw sales data from a CSV file, cleans it by handling missing and duplicate entries, and extracts meaningful business metrics such as total revenue, statistical averages, and the best-selling product.\n
-This project demonstrates foundational data science skills, including dataframe manipulation, data cleaning, aggregation (groupby), and statistical calculation.\n\n
+    The Sales Data Analysis project is a Python-based script designed to process, clean, and analyze retail sales data. Using the powerful pandas library, this tool takes raw sales data from a CSV file, cleans it by handling missing and duplicate entries, and extracts meaningful business metrics such as total revenue, statistical averages, and the best-selling product.
+<br>This project demonstrates foundational data science skills, including dataframe manipulation, data cleaning, aggregation (groupby), and statistical calculation.
 
 ✨ **Features**
 <br>Data Exploration: Quickly inspects dataset shape, data types, and preview rows.
