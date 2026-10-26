@@ -6,20 +6,20 @@ Sales Data Analysis
 This project demonstrates foundational data science skills, including dataframe manipulation, data cleaning, aggregation (groupby), and statistical calculation.\n\n
 
 ✨ **Features**
-\nData Exploration: Quickly inspects dataset shape, data types, and preview rows.
-\nData Cleaning: Automatically removes missing/null values and duplicate records to ensure data integrity.
-\nFinancial Metrics: Calculates Total Revenue, Average Sale, Highest Sale, and Lowest Sale.
-\nProduct Performance: Identifies the best-selling product based on total revenue generated.
+<br>Data Exploration: Quickly inspects dataset shape, data types, and preview rows.
+<br>Data Cleaning: Automatically removes missing/null values and duplicate records to ensure data integrity.
+<br>Financial Metrics: Calculates Total Revenue, Average Sale, Highest Sale, and Lowest Sale.
+<br>Product Performance: Identifies the best-selling product based on total revenue generated.
 
 **Prerequisites & Environment**
-Python Version: 3.13 (or newer)
-IDE: Spyder (or any Python IDE like VS Code, PyCharm, etc.)
-Libraries: pandas, bottleneck (v1.5.0+)
+<br>Python Version: 3.13 (or newer)
+<br>IDE: Spyder (or any Python IDE like VS Code, PyCharm, etc.)
+<br>Libraries: pandas, bottleneck (v1.5.0+)
 
 📂 **Project Structure**
-📦 Sales-Data-Analysis
- ┣ 📜 README.md             # Project documentation (this file)
- ┣ 📜 sales_analysis.py     # Main Python script for data processing
- ┣ 📜 sales_data.csv        # Dataset (ensure you have this in your working directory)
- ┗ 📜 requirements.txt      # List of dependencies (pandas, bottleneck)
+<br>📦 Sales-Data-Analysis
+<br> ┣ 📜 README.md             # Project documentation (this file)
+<br> ┣ 📜 sales_analysis.py     # Main Python script for data processing
+<br> ┣ 📜 sales_data.csv        # Dataset (ensure you have this in your working directory)
+<br> ┗ 📜 requirements.txt      # List of dependencies (pandas, bottleneck)
  
